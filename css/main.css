@@ -1,0 +1,11 @@
+body
+{
+    background-color:rgb(180,210,240);
+}
+
+canvas
+{
+    display:block;
+    position:absolute;
+    /*border:1px solid black;*/
+}
